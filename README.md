@@ -6,10 +6,13 @@ Este é um projeto desenvolvido durante a oficina de Python realizada pela Cloud
 
 **Objetivo:** Criar um banco de dados em Python onde podemos realizar um CRUD.  
 
-**Desenvolvido por:** @cyberthau
+**Funções adicionais:** Ao atualizar e cadastrar um usuário, o registro é salvo base de dados. 
 
-**Funções adicionais:** Atualizar da base de dados  
 
-*Neste projeto foi utilizado intelgência artificial, do GeminiAI, para realizar as análises dos erros e proprosição de medidas corretivas*  
+**Desenvolvido por:** @[cyberthau](https://github.com/cyberthau)
+
+*Neste projeto foi utilizado intelgência artificial, do GeminiAI, para realizar as análises dos erros e proprosição de medidas corretivas* 
+
+
 
 ![banco_cloudgirls_python](https://github.com/user-attachments/assets/8ce94772-1059-4ac2-a2de-350509d4a67b)
