@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "nome": "Ada Lovelace",
+        "email": "ada@lovelace",
+        "telefone": "123456789",
+        "status": true
+    },
+    {
+        "id": 2,
+        "nome": "Alan Turing",
+        "email": "alan@turing",
+        "telefone": "987654321",
+        "status": false
+    },
+    {
+        "id": 3,
+        "nome": "Grace Hopper",
+        "email": "grace@hopper",
+        "telefone": "543216987",
+        "status": true
+    },
+    {
+        "id": 4,
+        "nome": "Carol Shaw",
+        "email": "carol@shaw",
+        "telefone": "7413214698",
+        "status": true
+    },
+    {
+        "id": 5,
+        "nome": "Hedy Lammar",
+        "email": "hedy@lammar",
+        "telefone": "963258963258",
+        "status": true
+    }
+]
